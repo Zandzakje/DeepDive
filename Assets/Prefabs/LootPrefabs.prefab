@@ -41,7 +41,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 3293460390807858427}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b37cb23fe026cf4c818147cb0d2a90b, type: 3}
+  m_Script: {fileID: 11500000, guid: 9e652b8e6a3c76b4cab9c6ee7ca2e1cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   all: []
@@ -51,28 +51,28 @@ MonoBehaviour:
   epic: []
   legendary: []
   boss: []
-  hp1: {fileID: 2915842918816101647, guid: f43e3177c85581a4ba4fcfe4e55091e1, type: 3}
-  hp2: {fileID: 4192053690164248240, guid: df7876a1b06fcc7448a665dc915c599e, type: 3}
-  hp3: {fileID: 7209582086113450557, guid: a702745b545d3f5488aa8c48cf5a2168, type: 3}
-  mana1: {fileID: 2011449382576295768, guid: bb9c717335c8c314faca74caa688f87d, type: 3}
-  mana2: {fileID: 3560308964230871592, guid: d1e41e851dc9eb04c8bac0b30d1cbdf7, type: 3}
-  mana3: {fileID: 6250646987560798894, guid: 186092f3847db094e8f1c7d3cfd8e9c6, type: 3}
-  stamina1: {fileID: 3141499443973290548, guid: 39f6e7b62d4915f40a0a1a1c475079cd, type: 3}
-  stamina2: {fileID: 7798788627836565440, guid: f09c0594d24a279448fe9aff3ebb21f0, type: 3}
-  stamina3: {fileID: 5768464897873017177, guid: d32706e77b03a8c4086b98c0592b8093, type: 3}
-  attack1: {fileID: 5774320173220626521, guid: 73d50ce87b788804c9da40713b54af68, type: 3}
-  attack2: {fileID: 3868021010870672976, guid: 71c04634d0f848b449996c6c188e1669, type: 3}
-  attack3: {fileID: 7994649780557170318, guid: 93da38cd2afb8594da93e52e231183a8, type: 3}
-  defense1: {fileID: 7681966230303640998, guid: 6d1ddb5a8bc586241846506d4aa6c931, type: 3}
-  defense2: {fileID: 4885558468979727755, guid: b88d1cd1a80d1ab47b936da3dd86b06a, type: 3}
-  defense3: {fileID: 2957423761377872761, guid: 8fbfdab4b66c3584e965581e33314ec4, type: 3}
-  speed1: {fileID: 9116920456205496479, guid: 565aa7812382e71469964260f9449b9a, type: 3}
-  speed2: {fileID: 5767216226927317879, guid: 878dcaa660077934c8495b9e3fb6c562, type: 3}
-  speed3: {fileID: 3521518968935657476, guid: 959e47cb057d73f4ebc62f7a22c4e2fb, type: 3}
-  key: {fileID: 6043910134163034757, guid: 2ce536730f6e64142810579f408b4732, type: 3}
-  sword: {fileID: 3283997449328030179, guid: 833bdf0e3da1a4145a8137be2a743b8e, type: 3}
-  axe: {fileID: 143785467939583834, guid: 900c4e499410aaa43a622452592e203f, type: 3}
-  o: {fileID: 7802466604512594736, guid: 359225caf7e5f6049afa2a7be3984721, type: 3}
-  p: {fileID: 4193866636479899874, guid: e727dcc06e9f9b44ab7273af7c84f6c4, type: 3}
-  arrowPointingRight: {fileID: 7156374299806847653, guid: c33d836fad96af1408fd2d945d56c137, type: 3}
-  musicNote: {fileID: 6750716966645750846, guid: 85dada118394c824eba21d5c955d91a3, type: 3}
+  hp1: {fileID: 0}
+  hp2: {fileID: 0}
+  hp3: {fileID: 0}
+  mana1: {fileID: 0}
+  mana2: {fileID: 0}
+  mana3: {fileID: 0}
+  stamina1: {fileID: 0}
+  stamina2: {fileID: 0}
+  stamina3: {fileID: 0}
+  attack1: {fileID: 0}
+  attack2: {fileID: 0}
+  attack3: {fileID: 0}
+  defense1: {fileID: 0}
+  defense2: {fileID: 0}
+  defense3: {fileID: 0}
+  speed1: {fileID: 0}
+  speed2: {fileID: 0}
+  speed3: {fileID: 0}
+  sword: {fileID: 0}
+  axe: {fileID: 0}
+  o: {fileID: 0}
+  p: {fileID: 0}
+  arrowPointingRight: {fileID: 0}
+  musicNote: {fileID: 0}
+  key: {fileID: 0}
