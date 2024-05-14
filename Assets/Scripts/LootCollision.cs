@@ -6,13 +6,14 @@ using UnityEngine;
 
 public class LootCollision : MonoBehaviour
 {
-    GameObject currentlyTouching;
+    GameObject player;
     LootProperties lootProperties;
     LootEffects lootEffects;
 
     void Start()
     {
-        
+        lootProperties = this.gameObject.GetComponent<LootProperties>();
+        lootEffects = this.gameObject.GetComponent<LootEffects>();
     }
 
     void Update()
@@ -22,13 +23,11 @@ public class LootCollision : MonoBehaviour
 
     void OnTriggerEnter(Collider collider)
     {
-        if(collider.tag == "loot")
+        if(collider.CompareTag("Player"))
         {
-            currentlyTouching = collider.gameObject;
-            currentlyTouching.GetComponent<SphereCollider>().enabled = false;
-            currentlyTouching.GetComponent<LootFadeOut>().TriggerFadeOut();
-            lootProperties = currentlyTouching.GetComponent<LootProperties>();
-            lootEffects = currentlyTouching.GetComponent<LootEffects>();
+            player = collider.gameObject;
+            this.gameObject.GetComponent<SphereCollider>().enabled = false;
+            this.gameObject.GetComponent<LootFadeOut>().TriggerFadeOut();
 
             switch (lootProperties.type)
             {
@@ -45,8 +44,8 @@ public class LootCollision : MonoBehaviour
                     break;
             }
 
-            Destroy(currentlyTouching, 1.6f);
-            currentlyTouching = null;
+            Destroy(this.gameObject, 1.6f);
+            player = null;
         }
     }
 }
