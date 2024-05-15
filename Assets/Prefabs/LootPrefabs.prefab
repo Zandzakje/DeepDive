@@ -45,34 +45,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   all: []
-  common: []
-  uncommon: []
-  rare: []
-  epic: []
-  legendary: []
-  boss: []
-  hp1: {fileID: 0}
-  hp2: {fileID: 0}
-  hp3: {fileID: 0}
-  mana1: {fileID: 0}
-  mana2: {fileID: 0}
-  mana3: {fileID: 0}
-  stamina1: {fileID: 0}
-  stamina2: {fileID: 0}
-  stamina3: {fileID: 0}
-  attack1: {fileID: 0}
-  attack2: {fileID: 0}
-  attack3: {fileID: 0}
-  defense1: {fileID: 0}
-  defense2: {fileID: 0}
-  defense3: {fileID: 0}
-  speed1: {fileID: 0}
-  speed2: {fileID: 0}
-  speed3: {fileID: 0}
-  sword: {fileID: 0}
-  axe: {fileID: 0}
-  o: {fileID: 0}
-  p: {fileID: 0}
-  arrowPointingRight: {fileID: 0}
-  musicNote: {fileID: 0}
-  key: {fileID: 0}
+  rarity1: []
+  rarity2: []
+  rarity3: []
+  baseLootObject: {fileID: 4862432422893781393, guid: 1b4aa0356208d7f478657c197728168c, type: 3}
+  example1: {fileID: 770135777083245720, guid: 6187a1c0dded42b489aa7d5d9e06ce33, type: 3}
+  example2: {fileID: 6526845797450556048, guid: 902b8eb2aa320cd41a5f33c502d4b8ef, type: 3}
+  example3: {fileID: 6664123578138704333, guid: fd6569cf3f4f72643b21863c178bd086, type: 3}

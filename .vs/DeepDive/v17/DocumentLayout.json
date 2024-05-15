@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Gebruiker\\Desktop\\DeepDive\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|c:\\users\\gebruiker\\desktop\\deepdive\\assets\\scripts\\lootdropped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|c:\\users\\gebruiker\\desktop\\deepdive\\assets\\scripts\\spherecollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spherecollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|C:\\Users\\Gebruiker\\Desktop\\DeepDive\\assets\\scripts\\lootdropped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lootdropped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|c:\\users\\gebruiker\\desktop\\deepdive\\assets\\scripts\\lootfadeout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lootfadeout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|C:\\Users\\Gebruiker\\Desktop\\DeepDive\\assets\\scripts\\loottransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loottransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|C:\\Users\\Gebruiker\\Desktop\\DeepDive\\assets\\scripts\\lootcollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lootcollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|C:\\Users\\Gebruiker\\Desktop\\DeepDive\\assets\\scripts\\lootproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lootproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|C:\\Users\\Gebruiker\\Desktop\\DeepDive\\assets\\scripts\\looteffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\looteffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|C:\\Users\\Gebruiker\\Desktop\\DeepDive\\assets\\scripts\\lootprefabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lootprefabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|C:\\Users\\Gebruiker\\Desktop\\DeepDive\\assets\\scripts\\looteffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\looteffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|C:\\Users\\Gebruiker\\Desktop\\DeepDive\\assets\\scripts\\lootproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lootproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|C:\\Users\\Gebruiker\\Desktop\\DeepDive\\assets\\scripts\\lootfadeout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17A85CF-AB32-1C6B-609C-CB77630D54AB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lootfadeout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,6 +47,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SphereCollision.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Desktop\\DeepDive\\Assets\\Scripts\\SphereCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SphereCollision.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Desktop\\DeepDive\\Assets\\Scripts\\SphereCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SphereCollision.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:15:52.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LootTransform.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\Desktop\\DeepDive\\Assets\\Scripts\\LootTransform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LootTransform.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\Desktop\\DeepDive\\Assets\\Scripts\\LootTransform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LootTransform.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:43:46.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LootDropped.cs",
               "DocumentMoniker": "C:\\Users\\Gebruiker\\Desktop\\DeepDive\\Assets\\Scripts\\LootDropped.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LootDropped.cs",
@@ -46,38 +79,35 @@
               "RelativeToolTip": "Assets\\Scripts\\LootDropped.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAgwC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T10:22:21.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T10:22:21.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "LootFadeOut.cs",
               "DocumentMoniker": "C:\\Users\\Gebruiker\\Desktop\\DeepDive\\Assets\\Scripts\\LootFadeOut.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LootFadeOut.cs",
               "ToolTip": "C:\\Users\\Gebruiker\\Desktop\\DeepDive\\Assets\\Scripts\\LootFadeOut.cs",
               "RelativeToolTip": "Assets\\Scripts\\LootFadeOut.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJsAAAAQAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwJsAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T09:59:36.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T09:59:36.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LootCollision.cs",
               "DocumentMoniker": "C:\\Users\\Gebruiker\\Desktop\\DeepDive\\Assets\\Scripts\\LootCollision.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LootCollision.cs",
               "ToolTip": "C:\\Users\\Gebruiker\\Desktop\\DeepDive\\Assets\\Scripts\\LootCollision.cs",
               "RelativeToolTip": "Assets\\Scripts\\LootCollision.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T09:30:09.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T09:30:09.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "LootProperties.cs",
               "DocumentMoniker": "C:\\Users\\Gebruiker\\Desktop\\DeepDive\\Assets\\Scripts\\LootProperties.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LootProperties.cs",
@@ -85,12 +115,11 @@
               "RelativeToolTip": "Assets\\Scripts\\LootProperties.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T09:29:57.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T09:29:57.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LootPrefabs.cs",
               "DocumentMoniker": "C:\\Users\\Gebruiker\\Desktop\\DeepDive\\Assets\\Scripts\\LootPrefabs.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LootPrefabs.cs",
@@ -98,21 +127,19 @@
               "RelativeToolTip": "Assets\\Scripts\\LootPrefabs.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T09:28:45.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T09:28:45.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "LootEffects.cs",
               "DocumentMoniker": "C:\\Users\\Gebruiker\\Desktop\\DeepDive\\Assets\\Scripts\\LootEffects.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LootEffects.cs",
               "ToolTip": "C:\\Users\\Gebruiker\\Desktop\\DeepDive\\Assets\\Scripts\\LootEffects.cs",
               "RelativeToolTip": "Assets\\Scripts\\LootEffects.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T09:27:17.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T09:27:17.309Z"
             }
           ]
         }

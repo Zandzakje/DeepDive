@@ -363,6 +363,7 @@
 "Assets/Scripts/LootPrefabs.cs"
 "Assets/Scripts/LootProperties.cs"
 "Assets/Scripts/LootTransform.cs"
+"Assets/Scripts/SphereCollision.cs"
 -langversion:9.0
 
 /deterministic
