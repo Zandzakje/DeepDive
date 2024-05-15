@@ -6,65 +6,41 @@ using UnityEngine;
 
 public class LootEffects : MonoBehaviour
 {
-    GameObject character;
-	void Start()
-    {
-        character = GameObject.FindGameObjectWithTag("Player");
-    }
-
-    void Update()
-    {
-        
-    }
-
-    public void TriggerEffectPowerup(int id)
+    public void TriggerEffectType1(int id)
     {
 		switch (id)
         {
-            case 0: // Current HP up
-                break;
-            case 1: // Current HP to max HP
-                break;
-            case 2: // Current mana up
-                break;
-            case 3: // Current mana to max mana
-                break;
-            case 4: // Stamina regeneration up
-                break;
-            case 5: // Attack up
-                break;
-            case 6: // Defense up
-                break;
-            case 7: // Movement speed up
+            case 0:
+                Debug.Log("Example 1 triggered!");
                 break;
             default:
-                Debug.Log("No buff triggered!");
+                Debug.Log("No effect triggered!");
                 break;
         }
     }
 
-    public void TriggerEffectWeapon(int id)
+    public void TriggerEffectType2(int id)
     {
         switch (id)
         {
-            case 0: // sword
+            case 0:
+                Debug.Log("Example 2 triggered!");
                 break;
-            case 1: // axe
+            default:
+                Debug.Log("No effect triggered!");
                 break;
         }
     }
 
-    public void TriggerEffectSpell(int id)
+    public void TriggerEffectType3(int id)
     {
         switch (id)
         {
-            case 0: // o
+            case 0:
+                Debug.Log("Example 3 triggered!");
                 break;
-            case 1: // p
-                break;
-            case 2: // arrow pointing right
-                break;
-            case 3: // music note
+            default:
+                Debug.Log("No effect triggered!");
                 break;
         }
     }

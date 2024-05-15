@@ -16,11 +16,6 @@ public class LootCollision : MonoBehaviour
         lootEffects = this.gameObject.GetComponent<LootEffects>();
     }
 
-    void Update()
-    {
-        
-    }
-
     void OnTriggerEnter(Collider collider)
     {
         if(collider.CompareTag("Player"))
@@ -31,16 +26,14 @@ public class LootCollision : MonoBehaviour
 
             switch (lootProperties.type)
             {
-                case LootProperties.lootType.powerup:
-                    lootEffects.TriggerEffectPowerup(lootProperties.effectId);
+                case LootProperties.lootType.type1:
+                    lootEffects.TriggerEffectType1(lootProperties.effectId);
                     break;
-                case LootProperties.lootType.key:
+                case LootProperties.lootType.type2:
+                    lootEffects.TriggerEffectType2(lootProperties.effectId);
                     break;
-                case LootProperties.lootType.weapon:
-                    lootEffects.TriggerEffectWeapon(lootProperties.effectId);
-                    break;
-                case LootProperties.lootType.spell:
-                    lootEffects.TriggerEffectSpell(lootProperties.effectId);
+                case LootProperties.lootType.type3:
+                    lootEffects.TriggerEffectType3(lootProperties.effectId);
                     break;
             }
 

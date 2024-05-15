@@ -12,30 +12,17 @@ public class LootProperties : MonoBehaviour
     public lootRarity rarity;
     public lootType type;
 
-    void Start()
-    {
-        
-    }
-
-    void Update()
-    {
-        
-    }
-
     public enum lootRarity
     {
-        common,
-        uncommon,
-        rare,
-        epic,
-        legendary
+        rarity1,
+        rarity2,
+        rarity3
     }
 
     public enum lootType
     {
-        powerup,
-        key,
-        weapon,
-        spell
+        type1,
+        type2,
+        type3
     }
 }

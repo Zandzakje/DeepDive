@@ -115,7 +115,7 @@ public class LootFadeOut : MonoBehaviour
         {
             alpha = materials[i].color.a;
 
-            if (materials[i].name.Contains("inner_") || materials[i].name.Contains("PROP"))
+            if (materials[i].name.Contains("inner_"))
             {
                 alpha -= fadeOutSpeedInner * Time.deltaTime;
             }
@@ -123,12 +123,12 @@ public class LootFadeOut : MonoBehaviour
             {
                 alpha -= fadeOutSpeedOuter * Time.deltaTime;
             }
-            else if (materials[i].name.Contains("Default") || materials[i].name.Contains("_sparkle"))
+            else if (materials[i].name.Contains("Default") || materials[i].name.Contains("sparkle_"))
             {
                 alpha -= fadeOutSpeedEffects * Time.deltaTime;
             }
 
-            if (materials[i].color.a <= 0f)
+            if (alpha <= 0f)
             {
                 materials[i].color = new Color(materials[i].color.r, materials[i].color.g, materials[i].color.b, 0f);
             }
